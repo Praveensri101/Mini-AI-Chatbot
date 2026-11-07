@@ -162,7 +162,7 @@ pip install -r requirements.txt
 
 
 
-1\. Create an API key through \[Google AI Studio](https://aistudio.google.com/apikey).
+1\. Create an API key through \[Google AI Studio].
 
 2\. Create a `.env` file in the project root.
 
